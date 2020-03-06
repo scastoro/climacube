@@ -122,10 +122,11 @@ footer {
   padding: 2.3rem 0;
 }
 
-@media (max-width: 1912px) {
+@media (min-width: 1440px) {
   .main .container p {
     padding: 1.5rem 2rem;
     font-size: 2rem;
+    max-width: 1200px;
   }
 }
 
